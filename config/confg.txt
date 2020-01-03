@@ -1,0 +1,7 @@
+mysql usuario : node_user
+
+contraseña :  123456
+
+base de datos : node_db
+
+tabla : heroes
